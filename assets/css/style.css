@@ -1447,7 +1447,7 @@ img[src$="#full"] {
 .post-title {
     position: relative;
     z-index: 10;
-    margin: 0 0 0.25em;
+    margin: 0.25em 0 0.5em 0;
     font-size: 2em;
     line-height: 1em;
     font-weight: 700;
@@ -1469,7 +1469,6 @@ img[src$="#full"] {
     position: relative;
     z-index: 10;
     display: block;
-    margin-bottom: 1.334em;
     font-family: 'Fira Sans', sans-serif;
     font-size: 0.75em;
     font-weight: 400;
